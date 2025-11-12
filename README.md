@@ -1,15 +1,12 @@
-# Clon de Google Versión 1 - TECNOLOCHICAS PRO
+# Google Clone Version 1
 
-La página a continuación es una imitación de la página de navegación "Google.com", con la intención de poner en práctica primeros conocimientos obtenidos en el bootcamp de desarrollo front-end de Technolochicas PRO.
+The following page is an imitation of the "Google.com" homepage, created with the purpose of practicing the first front-end development concepts learned during the Technolochicas PRO 2024 Bootcamp.
 
-Fue desarrollado con HTML y CSS.
+It was built using **HTML** and **CSS**.
 
-## Tecnologías
+## ⚙️ Technologies Used
 
 * HTML
-* CSS
+* CSS  
 
-<!-- creo q es un comentario -->
----- 
-
-Desarrollado por Andrea Baeza en el Bootcamp de Technolochicas PRO Edición 2024.
+----
